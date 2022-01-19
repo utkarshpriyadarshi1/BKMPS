@@ -9,5 +9,5 @@
 <link href="https://fonts.googleapis.com/css2?family=Material+Icons"
       rel="stylesheet">
 <link href="/assets/semantic/dist/semantic.min.css" rel="stylesheet">
-<script src="/assets/jquery-3.1.1.min.js"></script>
+<script src="/assets/jquery-3.6.0.js"></script>
 <script src="/assets/semantic/dist/semantic.min.js"></script>
