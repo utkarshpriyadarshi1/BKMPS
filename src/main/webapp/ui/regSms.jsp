@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<%@ include file="../head.jsp"%>
+<%@ include file="../components/head.jsp"%>
 <title>Hello World - JSP tutorial</title>
 </head>
 <body>

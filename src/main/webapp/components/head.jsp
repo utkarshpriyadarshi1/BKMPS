@@ -6,6 +6,8 @@
 <META Http-Equiv="Cache-Control" Content="no-store" />
 <META Http-Equiv="Pragma" Content="no-cache" />
 <META Http-Equiv="Expires" Content="0" />
-<link rel="stylesheet" href="semantic/dist/semantic.min.css">
-<script src="jquery-3.1.1.min.js"></script>
-<script src="semantic/dist/semantic.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Material+Icons"
+      rel="stylesheet">
+<link href="/assets/semantic/dist/semantic.min.css" rel="stylesheet">
+<script src="/assets/jquery-3.1.1.min.js"></script>
+<script src="/assets/semantic/dist/semantic.min.js"></script>

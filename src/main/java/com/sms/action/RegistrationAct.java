@@ -17,6 +17,12 @@ public ModelAndView studentReg() {
 	mv.setViewName("regSms");
 	return mv;
 }
+@GetMapping("/index.html")
+public ModelAndView landingPage() {
+	ModelAndView mv=new  ModelAndView();
+	mv.setViewName("index");
+	return mv;
+}
 
 
 }
